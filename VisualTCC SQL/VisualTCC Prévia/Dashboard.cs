@@ -76,6 +76,7 @@ namespace VisualTCC_Prévia
             guna2Transition1.ShowSync(guna2Panel2);
             guna2Panel1.Width = 155;
             guna2Panel2.Width = 1068;
+            
         }
     }
 }

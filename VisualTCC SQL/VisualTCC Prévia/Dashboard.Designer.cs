@@ -134,7 +134,7 @@
             this.guna2GradientButton4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.guna2GradientButton4.ForeColor = System.Drawing.Color.White;
             this.guna2GradientButton4.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.BackwardDiagonal;
-            this.guna2GradientButton4.HoverState.FillColor = System.Drawing.SystemColors.ActiveBorder;
+            this.guna2GradientButton4.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(84)))), ((int)(((byte)(137)))));
             this.guna2GradientButton4.Image = global::VisualTCC_Prévia.Properties.Resources.icons8_empilhadeira_64;
             this.guna2GradientButton4.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2GradientButton4.Location = new System.Drawing.Point(12, 460);
@@ -195,7 +195,7 @@
             this.guna2GradientButton3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.guna2GradientButton3.ForeColor = System.Drawing.Color.White;
             this.guna2GradientButton3.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.BackwardDiagonal;
-            this.guna2GradientButton3.HoverState.FillColor = System.Drawing.SystemColors.ActiveBorder;
+            this.guna2GradientButton3.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(84)))), ((int)(((byte)(137)))));
             this.guna2GradientButton3.Image = global::VisualTCC_Prévia.Properties.Resources.icons8_cadastro_100;
             this.guna2GradientButton3.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2GradientButton3.Location = new System.Drawing.Point(12, 360);
@@ -226,7 +226,7 @@
             this.guna2GradientButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2GradientButton2.ForeColor = System.Drawing.Color.White;
             this.guna2GradientButton2.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.BackwardDiagonal;
-            this.guna2GradientButton2.HoverState.FillColor = System.Drawing.SystemColors.ActiveBorder;
+            this.guna2GradientButton2.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(84)))), ((int)(((byte)(137)))));
             this.guna2GradientButton2.Image = global::VisualTCC_Prévia.Properties.Resources.icons8_empilhadeira_64;
             this.guna2GradientButton2.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2GradientButton2.Location = new System.Drawing.Point(12, 260);
@@ -257,7 +257,7 @@
             this.guna2GradientButton1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2GradientButton1.ForeColor = System.Drawing.Color.White;
             this.guna2GradientButton1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.BackwardDiagonal;
-            this.guna2GradientButton1.HoverState.FillColor = System.Drawing.SystemColors.ActiveBorder;
+            this.guna2GradientButton1.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(84)))), ((int)(((byte)(137)))));
             this.guna2GradientButton1.Image = global::VisualTCC_Prévia.Properties.Resources.icons8_receba_dólar_100;
             this.guna2GradientButton1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2GradientButton1.Location = new System.Drawing.Point(12, 160);

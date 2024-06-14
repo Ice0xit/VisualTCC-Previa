@@ -54,5 +54,10 @@ namespace VisualTCC_Prévia
             menu.Show();
             this.Hide();
         }
+
+        private void guna2GradientButton6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
